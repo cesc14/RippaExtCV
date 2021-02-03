@@ -1,4 +1,4 @@
-# Extended Rippa's method for k-fold CV in RBF interpolation
+# The extended Rippa's method for k-fold CV in RBF interpolation
 
 **Author**: F. Marchetti, University of Padova, Department of Mathematics "Tullio Levi-Civita";
 
