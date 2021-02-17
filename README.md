@@ -2,4 +2,4 @@
 
 **Author**: F. Marchetti, University of Padova, Department of Mathematics "Tullio Levi-Civita";
 
-If you make use of this code, please cite *F. Marchetti, “The extension of the Rippa's algorithm beyond LOOCV”, submitted*;
+If you make use of this code, please cite *F. Marchetti, “The extension of the Rippa's algorithm beyond LOOCV”, submitted*.
