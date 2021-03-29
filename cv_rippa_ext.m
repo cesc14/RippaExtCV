@@ -24,7 +24,7 @@ function [ep_best,val,timez] = cv_rippa_ext(dsites,rhs,rbf,ep,n_folds,...
 %
 % To use this function, please cite:
 % F. Marchetti, "The extension of the Rippa's algorithm beyond LOOCV",
-% submitted.
+% Appl. Math. Lett., doi: https://doi.org/10.1016/j.aml.2021.107262 .
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
