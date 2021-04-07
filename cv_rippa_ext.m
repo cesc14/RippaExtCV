@@ -23,8 +23,8 @@ function [ep_best,val,timez] = cv_rippa_ext(dsites,rhs,rbf,ep,n_folds,...
 %   timez: the time employed by the k-fold CV process
 %
 % If you use this function, please cite:
-% F. Marchetti, "The extension of the Rippa's algorithm beyond LOOCV",
-% Appl. Math. Lett., doi: https://doi.org/10.1016/j.aml.2021.107262 .
+% F. Marchetti, “The extension of the Rippa's algorithm beyond LOOCV”,
+% Appl. Math. Lett. 120, 107262
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
