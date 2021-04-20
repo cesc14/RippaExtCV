@@ -14,7 +14,7 @@ function [ep_best,val,timez] = cv_rippa_ext(dsites,rhs,rbf,ep,n_folds,...
 %   rhs: Mx1 matrix of function values at the dsites
 %   rbf: function handle, the chosen RBF for the interpolation
 %   ep: Dx1 matrix of values for the tuning of the shape parameter
-%   n_folds: number of folds k for the k-fold CV
+%   n_folds: number of folds k>1 for the k-fold CV
 %   the_norm: chosen norm for the validation error
 %
 % Output
@@ -44,7 +44,7 @@ for i=1:length(ep)
     invIM = inv(IM);
     coeffs = invIM*rhs;
     
-    if n_folds == 1
+    if n_folds == size(dsites, 1)
         
         % The standard Rippa's scheme
         
