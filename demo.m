@@ -42,7 +42,7 @@ rbf = @(e,r) max(0,1-e.*r).^4.*(4.*(e.*r) + 1); %Wendland c2
     
 
 fprintf('Best parameter value: %f\n' , ep_best)
-fprintf('Validation error: %f\n' , ep_best)
+fprintf('Validation error: %f\n' , val)
 fprintf('Time employed: %f\n' , timez)
 
     
