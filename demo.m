@@ -2,8 +2,8 @@
 %
 % Script that perform the parameter tuning in RBF interpolation using the
 % extended Rippa's scheme. To use this script, please cite:
-% F. Marchetti, "The extension of the Rippa's algorithm beyond LOOCV",
-% submitted.
+% F. Marchetti, “The extension of Rippa's algorithm beyond LOOCV”,
+% Appl. Math. Lett. 120, 107262
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
