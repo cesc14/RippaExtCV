@@ -48,7 +48,7 @@ for i=1:length(ep)
         
         % The standard Rippa's scheme
         
-        EF = invIM*(rhs)./diag(invIM);
+        EF = coeffs./diag(invIM);
        
     else
         
