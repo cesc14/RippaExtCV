@@ -10,6 +10,6 @@ If you make use of this code, please cite
 
 *F. Marchetti, “The extension of Rippa's algorithm beyond LOOCV”, Appl. Math. Lett. 120, 107262, doi: https://doi.org/10.1016/j.aml.2021.107262*.
 
-*F. Marchetti, L. Ling “A stochastic extended Rippa's algorithm for LpOCV”, submitted*.
+*F. Marchetti, L. Ling “A stochastic extended Rippa's algorithm for LpOCV”, Appl. Math. Lett. 129, 107955, https://doi.org/10.1016/j.aml.2022.107955*.
 
 
