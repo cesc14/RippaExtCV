@@ -1,4 +1,4 @@
-# The Extended Rippa's Algorithm (ERA) and its Stochastic version (SERA) for k-fold CV in RBF interpolation. Surrogate CV for RBF collocation
+# The Extended Rippa's Algorithm (ERA), its Stochastic version (SERA) and Surrogate CV for validating models in RBF interpolation and collocation
 
 **Author**: F. Marchetti, University of Padova, Department of Mathematics "Tullio Levi-Civita";
 
